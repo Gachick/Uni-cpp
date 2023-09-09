@@ -1,2 +1,2 @@
 # Uni-cpp
-A basic cpp programm.
+Репозиторий с задачами семинаров по cpp.
